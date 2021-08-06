@@ -12,5 +12,8 @@ Laarp:
 Soup:
   kidneys
   livers
+  
+Sides:
+  Sticky Rice
 
 Finish
