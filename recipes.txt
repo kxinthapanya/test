@@ -9,3 +9,6 @@ Laarp:
   celantro
   lime
   
+Soup:
+  kidneys
+  livers
